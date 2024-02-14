@@ -15,7 +15,7 @@ I love golang and web3!
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E) ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white)
 
-# ⚡ GitHub Stats:
+# ⚡ Weekly Code Stats:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,4 +27,3 @@ YAML         30 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=FlowGoCrazy&theme=dark&hide_border=false)
