@@ -18,4 +18,13 @@ I love golang and web3!
 # ⚡ GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FlowGoCrazy&theme=dark&hide_border=false)
 <!--START_SECTION:waka-->
+
+```txt
+Rust         23 hrs 21 mins  ███████████████▒░░░░░░░░░   61.71 %
+TypeScript   10 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Go           1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+JSON         1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+```
+
 <!--END_SECTION:waka-->
