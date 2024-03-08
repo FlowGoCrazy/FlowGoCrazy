@@ -19,11 +19,11 @@ I love golang and web3!
 <!--START_SECTION:waka-->
 
 ```txt
-Go           14 hrs 28 mins  ███████████░░░░░░░░░░░░░░   43.85 %
-TypeScript   12 hrs 37 mins  █████████▓░░░░░░░░░░░░░░░   38.25 %
-Rust         3 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-TOML         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Go           14 hrs 35 mins  █████████████▓░░░░░░░░░░░   54.23 %
+TypeScript   7 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+Rust         3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+JavaScript   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
