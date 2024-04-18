@@ -1,7 +1,6 @@
 # 💬 About Me:
 
-Just an 18 year old obsessed with building cool stuff.
-I love golang and web3!
+Just a 19 year old building cool stuff.
 
 # 💻 My Favorite Tech:
 
